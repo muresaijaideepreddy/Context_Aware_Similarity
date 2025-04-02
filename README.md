@@ -1,8 +1,11 @@
 # Context_Aware_Similarity
 
-context : Animal 
+context : Animal
+ 
 Neutral : The cat has been playing wit the ball
+
 Sentence1  : The dog is very angry on the owner
+
 Sentence2  : The cat is from the egpyt
 
 
